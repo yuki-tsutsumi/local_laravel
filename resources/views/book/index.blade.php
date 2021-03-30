@@ -12,7 +12,7 @@
       <tr>
         <th class="text-center">ID</th>
         <th class="text-center">書籍名</th>
-        <th class="text-center">値段</th>
+        <th class="text-center">価格</th>
         <th class="text-center">著者</th>
         <th class="text-center">削除</th>
       </tr>
