@@ -15,5 +15,6 @@ class DatabaseSeeder extends Seeder
     {
         // BooksTableSeederを読み込むように指定
         $this->call(BooksTableSeeder::class);
+        $this->call(PriceTaxiesTableSeeder::class);
     }
 }
